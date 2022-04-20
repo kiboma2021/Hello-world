@@ -14,8 +14,8 @@
 👤 **Ben Omayio**
 
 - GitHub: [@kiboma2021](https://github.com/kiboma2021)
-- Twitter: [@omayiobenj](https://twitter.com/omayiobenj)
-- LinkedIn: [@TomasMilanesi](https://www.linkedin.com/in/ben-omayio-74622469/)
+- Twitter: [@BenOmayio](https://twitter.com/omayiobenj)
+- LinkedIn: [@BenOmayio](https://www.linkedin.com/in/ben-omayio-74622469/)
 
 
 
