@@ -9,6 +9,40 @@
 - Linters
 
 
+## Live Demo
+
+[Microverse Project Page](https://ben-microverse-project.com)
+
+## Getting Started
+
+To clone this project:
+- Go to github project repository
+- Click on the green button(known as code)
+- Copy the ssh link
+- on your local machine, type the command git clone link
+
+
+### Prerequisites
+- Code editor
+- Knowledge in HTML and CSS
+
+### Setup
+- No set up is required for this project
+
+### Install
+- No Installation is required
+
+### Usage
+- Make changes to the index.html and submit pull requests
+
+### Run tests
+- You can use a live server to run the tests
+
+### Deployment
+- Run the project in your local browser to view the index.html
+
+
+
 ## Authors
 
 👤 **Ben Omayio**
